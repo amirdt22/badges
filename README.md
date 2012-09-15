@@ -3,7 +3,7 @@ badges
 
 playing around with mozilla badges using google app engine
 
-== deploying ==
+## deploying
 
 dev:
  google_appengine/dev_appserver.py badges
